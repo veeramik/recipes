@@ -1,6 +1,6 @@
 #ingredients
 -avocado
--lemon
+-lime(traditional) or lemon
 -salt
 
 #instructions
